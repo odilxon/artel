@@ -1,0 +1,24 @@
+body {
+    background-color: #b9d6df !important;
+}
+
+.gap {
+    padding-top: 300px;
+}
+
+.login-form {
+    padding: 20px;
+    border-radius: 10px;
+    background: #b9d6df;
+    box-shadow:  15px 15px 31px #9db6be,
+                 -15px -15px 31px #d5f6ff;
+}
+
+.submit {
+    margin-top: 10px;
+    float: right;
+    border-radius: 10px;
+    background: #b9d6df;
+    box-shadow:  8px 8px 15px #9db6be,
+    -8px -8px 15px #d5f6ff;
+}
